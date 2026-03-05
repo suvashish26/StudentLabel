@@ -102,7 +102,6 @@ Install required libraries:
 2.  Run:
 
 ```{=html}
-<!-- -->
 ```
     python student_prediction.py
 
