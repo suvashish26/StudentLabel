@@ -101,8 +101,7 @@ Install required libraries:
 1.  Save the Python script
 2.  Run:
 
-```{=html}
-```
+
     python student_prediction.py
 
 ------------------------------------------------------------------------
